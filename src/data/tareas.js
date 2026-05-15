@@ -9,4 +9,4 @@ export const tareasIniciales = [
     fecha: "2026-02-10", completada: false },
   {id: 5, titulo: "Parcial de Cátedra Económica", materia: "Cátedra Económica",
     fecha: "2026-04-01", completada: true },
-];
+];  
